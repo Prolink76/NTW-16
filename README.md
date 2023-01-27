@@ -4,7 +4,7 @@
 
 1.1. Классификация сетей. Сетевые топологии.
 
-[1.2. Сетевые модели TCP/IP и OSI](https://github.com/Prolink76/NTW-16/blob/bntw-homeworks/1-02.md)
+[1.2. Сетевые модели TCP/IP и OSI](https://github.com/Prolink76/NTW-16/blob/BNTW-16/1-02.md)
 
 1.3. Типы и характеристики физических сетей Ethernet.
 
