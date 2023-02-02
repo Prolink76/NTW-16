@@ -10,4 +10,4 @@
 
 [1.4. Функции, возможности и характеристики сетевых устройств](https://github.com/Prolink76/NTW-16/blob/BNTW-16/1-04.md)
 
-1.5. Подключение к оборудованию Cisco/Mikrotik/Juniper, базовая настройка.
+[1.5. Подключение к оборудованию Cisco/Mikrotik/Juniper, базовая настройка.](https://github.com/Prolink76/NTW-16/blob/BNTW-16/1-05.md)
